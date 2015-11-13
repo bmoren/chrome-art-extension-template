@@ -7,5 +7,8 @@ More info on google Chrome extension development [here](https://developer.chrome
 
 [Installation guide](https://developer.chrome.com/extensions/getstarted#unpacked)
 
+hint: Don't forget to reload the plugin and reload your test page each time you make changes...
+
+
 
 
